@@ -4,8 +4,7 @@ Config = {}
 -- settings
 ---------------------------------
 Config.Keybind = 'J' -- keybind prompt to open shop
-Config.UseNPCs = false -- enable NPC spawning at shop locations
-Config.NPCModel = 's_m_m_unibutchers_01' -- default NPC model for shops
+
 
 Config.Products = {
     ['normal'] = {
